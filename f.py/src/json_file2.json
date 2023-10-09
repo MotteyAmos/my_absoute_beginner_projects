@@ -1,0 +1,10 @@
+[0, 1, 2, 3, 4, 5, 6, 8]{
+   "name": "Router",
+   "age": 2,
+   "course": "computer science",
+   "subject": [
+      "mathematics",
+      "computer science",
+      "probability and statistics"
+   ]
+}
